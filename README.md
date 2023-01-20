@@ -1,7 +1,7 @@
 # Repoblación
 ## Profesor: Juan Antonio Muñoz Almansa
-## Alumno: 
-
+## Alumno: Daniel Mora Faba
+<div>
 La tarea va a consistir en simular la repoblación de un bosque de unas determinadas dimensiones.
 
 
